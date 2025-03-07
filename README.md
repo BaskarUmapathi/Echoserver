@@ -20,9 +20,9 @@ Implementation using Python code
 Testing the server and client 
 
 ## PROGRAM:
-REG NO: 212222220021
+REG NO: 212223220013
 
-NAME: MAITHREYAN D
+NAME: BASKAR U
 ## SERVER.PY
 ```
 import socket
