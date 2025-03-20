@@ -63,9 +63,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 ## OUTPUT:
 ## SERVER.PY
-![Screenshot 2025-03-20 222902](https://github.com/user-attachments/assets/96e8e47d-753a-4d3f-a6e6-9cf6addf7039)
+![Screenshot 2025-03-20 222937](https://github.com/user-attachments/assets/7e415137-b6e8-4b0f-9fbf-95b19ba15bdf)
+
 ## CLIENT.PY
-![Screenshot 2025-03-20 222937](https://github.com/user-attachments/assets/582628c5-9e6b-41d1-9d8c-f9445a293791)
+![Screenshot 2025-03-20 222902](https://github.com/user-attachments/assets/3ed72027-799c-4425-b21a-c2019b7c1980)
 
 ## RESULT:
 The program is executed successfully
